@@ -1,0 +1,11 @@
+City,State,Country,Latitude,Longitude,Time,Temperature_C,Feels_Like_C,Humidity_%,Precipitation_mm,Rain_Probability_%,Wind_Speed_kmh,Pressure_hPa,Weather_Code
+Jalgaon,Maharashtra,India,21.00292,75.56602,2026-10-07T18:15,32.3,34.5,40,0.0,3,2.1,988.2,0
+Dharangaon,Maharashtra,India,21.01187,75.27407,2026-10-07T18:15,30.3,33.9,55,0.0,2,2.8,989.5,0
+Chopda,Maharashtra,India,21.24578,75.29946,2026-10-07T18:15,30.2,35.0,62,0.0,0,0.3,991.8,0
+Amalner,Maharashtra,India,21.03983,75.05887,2026-10-07T18:15,30.8,33.6,52,0.0,6,5.9,992.5,0
+Erandol,Maharashtra,India,20.92206,75.32641,2026-10-07T18:15,30.6,33.5,52,0.0,2,4.6,988.8,0
+Dhule,Maharashtra,India,20.9013,74.77737,2026-10-07T18:15,33.1,33.5,32,0.0,7,6.3,984.4,0
+Pune,Maharashtra,India,18.51957,73.85535,2026-10-07T18:15,30.6,30.2,34,0.0,0,9.1,953.2,0
+Mumbai,Maharashtra,India,19.07283,72.88261,2026-10-07T18:15,31.5,35.3,59,0.0,9,9.3,1012.2,0
+Delhi,National Capital Territory of Delhi,India,28.65195,77.23149,2026-10-07T18:15,31.5,34.2,48,0.0,2,5.1,987.5,0
+Nashik,Maharashtra,India,19.99727,73.79096,2026-10-07T18:15,29.4,30.4,43,0.0,0,5.9,950.6,1
