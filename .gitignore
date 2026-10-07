@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temporary files
+*.tmp
+
+# Local/live data
+live_weather_data.csv
+live_air_quality_data.csv
+climate_master_data.csv
+climate_final_data.csv
