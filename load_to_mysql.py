@@ -16,11 +16,16 @@ print("Rows:", len(df))
 # 2. Connect to MySQL
 # ---------------------------------------------
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 connection = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="969950",
-    database="climate_dashboard"
+    host=os.getenv("MYSQL_HOST"),
+    user=os.getenv("MYSQL_USER"),
+    password=os.getenv("MYSQL_PASSWORD"),
+    database=os.getenv("MYSQL_DATABASE")
 )
 
 cursor = connection.cursor()
